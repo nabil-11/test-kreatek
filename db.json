@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "nom_complet": "sdqsd",
+      "nbr_gifts": "5",
+      "remise_defaut": "10",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "libelle": "35486",
+      "prix_ttc": "3156",
+      "en_stock": "3546",
+      "is_gift": false,
+      "id": 1
+    },
+    {
+      "libelle": "35486",
+      "prix_ttc": "3156",
+      "en_stock": "3546",
+      "is_gift": false,
+      "id": 2
+    },
+    {
+      "libelle": "sdsd",
+      "prix_ttc": "25.65",
+      "en_stock": "5",
+      "is_gift": true,
+      "id": 3
+    },
+    {
+      "libelle": "sdsd",
+      "prix_ttc": "25.65",
+      "en_stock": "5",
+      "is_gift": false,
+      "id": 4
+    },
+    {
+      "libelle": "qsfdqs",
+      "prix_ttc": "5",
+      "en_stock": "5",
+      "is_gift": true,
+      "id": 5
+    }
+  ]
+}
